@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Diana",
+        "age": 29,
+        "status": "active"
+    },
+    {
+        "name": "Diana",
+        "age": 29,
+        "status": "active",
+        "addresses": {
+            "billing": {
+                "street": "Musterstra\u00dfe 1",
+                "city": "Musterstadt",
+                "zip": "12345",
+                "country": "DE"
+            },
+            "shipping": {
+                "street": "Neue Lieferstra\u00dfe 10",
+                "city": "Lieferstadt",
+                "zip": "54321",
+                "country": "DE"
+            }
+        }
+    }
+]
