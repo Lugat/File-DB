@@ -2,7 +2,7 @@
 
 A small PHP query builder for arrays and JSON/XML files: SQL-like `where`, `join`, `groupBy`, `orderBy`, `limit` without a database.
 
-Repository: [git.jinx-digital.com/file-db](https://git.jinx-digital.com/file-db)
+**[Live demo →](https://git.jinx-digital.com/file-db)**
 
 ## Usage
 
